@@ -36,7 +36,8 @@ Haz clic aquí para descargar la aplicación: [Descargar APK](https://github.com
 
 
 ### Chat  
-![image](https://github.com/user-attachments/assets/3c4f7ea1-76b4-4f02-8dc1-932b204562b2)
+![image](https://github.com/user-attachments/assets/3b8cce3f-3ed2-4c91-91a4-e5d679346afb)
+
 
 
 ### Ubicacion
